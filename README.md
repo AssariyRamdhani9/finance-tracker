@@ -79,8 +79,7 @@ Fitur yang ada saat ini:
 | Backend    | FastAPI |
 | Backend    | Supabase (PostgreSQL, Auth, Storage) |
 | Backend    | Gemini API (OCR & kategorisasi) |
-| Deployment | Vercel (frontend) |
-| Deployment | Railway (backend) |
+
 
 (<a href="#readme-top">back to top</a>)
 
