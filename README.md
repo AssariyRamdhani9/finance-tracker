@@ -48,7 +48,9 @@
 
 ## About The Project
 
-<img src="frontend/public/docs/Dashboard.png" alt="Dashboard" width="700"/>
+<div align="center">
+  <img src="frontend/public/docs/Dashboard.png" alt="Dashboard" width="700"/>
+</div>
 
 Proyek ini bertujuan untuk mengotomatisasi pencatatan transaksi keuangan harian untuk menggantikan metode manual yang memakan waktu. Pengembangan dimulai dari pembuatan antarmuka input dasar, yang kemudian ditingkatkan dengan integrasi Gemini AI. Melalui fitur Optical Character Recognition (OCR) dan pemrosesan bahasa alami dari Gemini, pengguna dapat memindai struk belanja untuk mencatat dan mengkategorikan pengeluaran secara otomatis, cepat, dan akurat
 
